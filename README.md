@@ -1,4 +1,6 @@
-# Definição
+# Um texto introdutório sobre Séries Temporais
+
+## Definição
 
 O que são séries temporais? 
 
